@@ -1,0 +1,74 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "category": "PayPal",
+      "date": "Today",
+      "amount": 500,
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "category": "Mastercard",
+      "date": "Today",
+      "amount": 693,
+      "type": "expense"
+    },
+    {
+      "id": 3,
+      "category": "Visa",
+      "date": "1 Mar 2021",
+      "amount": 200,
+      "type": "expense"
+    },
+    {
+      "id": 4,
+      "category": "Axcess",
+      "date": "23 Mar 2021",
+      "amount": 50,
+      "type": "expense"
+    },
+    {
+      "id": 5,
+      "category": "Amex",
+      "date": "1 Apr 2021",
+      "amount": 60,
+      "type": "income"
+    },
+    {
+      "id": 6,
+      "category": "Skrill",
+      "date": "5 Apr 2021",
+      "amount": 20,
+      "type": "income"
+    },
+    {
+      "id": 7,
+      "category": "Troy",
+      "date": "24 May 2021",
+      "amount": 250,
+      "type": "expense"
+    },
+    {
+      "id": 8,
+      "category": "Bitpay",
+      "date": "25 May 2021",
+      "amount": 90,
+      "type": "expense"
+    },
+    {
+      "id": 9,
+      "category": "Bitcoin",
+      "date": "30 Jun 2021",
+      "amount": 1020,
+      "type": "income"
+    },
+    {
+      "id": 10,
+      "category": "Good Card",
+      "date": "1 Jul 2021",
+      "amount": 96,
+      "type": "expense"
+    }
+  ]
+}
