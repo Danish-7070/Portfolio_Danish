@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Job Find Jobs",
+    "slug": "job-find-jobs",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.danish.jobfindjobs",
+      "versionCode": 1,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    },
+    "entryPoint": "App.js",
+    "extra": {
+      "eas": {
+        "projectId": "d5410c3e-0ad7-4d33-8767-e3755bad3476"
+      }
+    }
+  }
+}
