@@ -1,0 +1,2 @@
+https://football-project-client.vercel.app/admin
+https://football-project-client.vercel.app
