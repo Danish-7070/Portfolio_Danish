@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+h2 {
+  /* font-family: "Bebas Neue", sans-serif; */
+  font-family: "Barlow Condensed", sans-serif;
+  letter-spacing: 2px !important;
+  font-size: 3.2rem !important;
+  line-height: 1;
+  /* when font is wraped there should be a space */
+  margin-bottom: .7rem;
+}
+
+h4{
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+/* apply media query for mobile below */
+@media (max-width: 768px) {
+  h1,
+  h2 {
+    font-size: 2.5rem !important;
+    letter-spacing: .1px !important;
+  }
+}
